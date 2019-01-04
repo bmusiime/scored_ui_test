@@ -1,0 +1,13 @@
+
+/.Ds_Store/
+/.ds_store/
+
+*.gem
+# .env
+
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+Gemfile.lock
+.ruby-version
