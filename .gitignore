@@ -1,10 +1,10 @@
 
-/.Ds_Store/
-/.ds_store/
+*/.Ds_Store/*
+*/.ds_store/*
 
 *.gem
 # .env
-
+/result/report.html
 /.bundle/
 /vendor/bundle
 /lib/bundler/man/
