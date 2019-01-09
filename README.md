@@ -1,8 +1,12 @@
 # Get started
+This tests are degigned to test Scored App: https://github.com/bmusiime/scored
+There is need to download and start this app before running the test.
+
 ## Install requirements
 ```
 brew install ruby
 gem install bundler
+bundle install
 gem install cucumber
 sudo gem install selenium-webdriver
 gem install rspec
