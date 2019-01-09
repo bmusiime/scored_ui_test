@@ -1,8 +1,6 @@
 # Get started
 This tests are degigned to test Scored App: https://github.com/bmusiime/scored as such, there is need to download and start this app before running the test.
 
-# scored_ui_test
-
 ## Install requirements
 ```
 brew install ruby
